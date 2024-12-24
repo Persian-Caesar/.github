@@ -13,6 +13,7 @@ This is **Persian Caesar** team, a team for support developers.
 | [Nuker Bot](https://github.com/Persian-Caesar/Anti-Nuker-Bot) | **✅** | ![Made with npm](https://badges.aleen42.com/src/npm.svg) ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) |
 | [Music Player In Website](https://github.com/Sobhan-SRZA/Music-Player-In-Website) | **✅** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with html](https://badges.aleen42.com/src/html5.svg) ![Made with css](https://badges.aleen42.com/src/css3.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Music-Player-In-Website?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Music-Player-In-Website?style=flat-square) |
 | [How Create Discord Bot?](https://github.com/Sobhan-SRZA/How-Create-Discord-Bot) | **⚒** | ![Made with npm](https://badges.aleen42.com/src/npm.svg) ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) |
+| [Adult Club](https://github.com/Persian-Caesar/Adult-Club) | **✅** | ![Made with npm](https://badges.aleen42.com/src/npm.svg) ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Adult-Club?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Adult-Club?style=flat-square) |
 
 </div>
 
@@ -32,11 +33,6 @@ This is **Persian Caesar** team, a team for support developers.
       <a href="https://github.com/Persian-Caesar/" target="_blank">
          <img src="https://komarev.com/ghpvc/?username=Persian-Caesar&logo=github&style=for-the-badge">
       </a>
-    </div>
-  </div>
-  <div align="center">
-    <div>
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Persian-Caesar&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" width = 30% />
     </div>
   </div>
 </div>
