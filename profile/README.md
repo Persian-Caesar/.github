@@ -86,8 +86,11 @@ With ownership from [@Sobhan-SRZA](https://github.com/Sobhan-SRZA)</br>
    </a>
   </p>
   <div align="center">
-   <a href="https://discord.com/users/865630940361785345" target="_blank">
+   <a href="https://discord.com/users/865630940361785345" target="_blank" algin="left">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/865630940361785345.png" />
+   </a>
+   <a href="https://discord.com/users/986314682547716117" target="_blank" align="right">
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/986314682547716117.png" />
    </a>
   </div>
  </div>
