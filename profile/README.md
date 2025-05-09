@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is **Persian Caesar** team, a team for support developers.
+This is **Persian Caesar** team, a team for supporting developers.
 
 <h1 align="center">Repositories</h1>
 <div align="center">
