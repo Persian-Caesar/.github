@@ -144,13 +144,14 @@ async function main() {
         }
 
         const repos = await check_projects();
+        const team_repos = repos.filter(a => a.organization === "Persian-Caesar");
         console.log(`check repositorise size: ${repos.length}`);
 
-        const markdownTable = await generateMarkdownTable(repos.filter(a => a.organization === "Persian-Caesar"), "https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images/");
-        fs.writeFileSync('README.md', readme(markdownTable));
+        const markdownTable = await generateMarkdownTable(team_repos, "https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images/");
+        fs.writeFileSync('profile/README.md', readme(markdownTable));
         console.log("\n");
-        console.log(`loaded repositorise size: ${repos.filter(a => a.organization === "Persian-Caesar").length}`);
-        console.log('README.md has successfully created.');
+        console.log(`loaded repositorise size: ${team_repos.length}`);
+        console.log('profile/README.md has successfully created.');
     } catch (error) {
         console.error('get an error:', error);
     }
