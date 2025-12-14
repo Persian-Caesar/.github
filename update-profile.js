@@ -152,7 +152,9 @@ async function main() {
         console.log("\n");
         console.log(`loaded repositorise size: ${team_repos.length}`);
         console.log('profile/README.md has successfully created.');
-    } catch (error) {
+    }
+    
+    catch (error) {
         console.error('get an error:', error);
     }
 }
