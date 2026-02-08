@@ -38,16 +38,7 @@ We specialize in:
 
 Here are our proudly open-source repositories (real-time stats as of February 2026):
 
-| # | Repository | Description | Language | ⭐ Stars | 🍴 Forks | Last Update |
-|---|------------|-------------|----------|----------|----------|-------------|
-| 1 | **[All-For-One-Bot](https://github.com/Persian-Caesar/All-For-One-Bot)** | Full-featured Discord bot template — moderation, utility, entertainment & more | JavaScript | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/All-For-One-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/All-For-One-Bot?style=flat-square) | Nov 2025 |
-| 2 | **[Ticker-Boy](https://github.com/Persian-Caesar/Ticker-Boy)** | Advanced ticket system with slash commands, dashboard & easy setup website | JavaScript | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) | Nov 2025 |
-| 3 | **[Padio](https://github.com/Persian-Caesar/Padio)** | High-quality radio bot — streams trending online stations into voice channels | TypeScript | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Padio?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Padio?style=flat-square) | Nov 2025 |
-| 4 | **[Anti-Nuker-Bot](https://github.com/Persian-Caesar/Anti-Nuker-Bot)** | Recovery tool for nuked servers — mass unban, cleanup channels/roles | JavaScript | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) | May 2025 |
-| 5 | **[DJ-Boy](https://github.com/Persian-Caesar/DJ-Boy)** | Simple yet powerful music player with custom music channel support | JavaScript | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/DJ-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/DJ-Boy?style=flat-square) | Nov 2025 |
-| 6 | **[discord-player](https://github.com/Persian-Caesar/discord-player)** | Lightweight, type-safe music playback module (YouTube, Spotify, etc.) | TypeScript | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/discord-player?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/discord-player?style=flat-square) | Oct 2025 |
-| 7 | **[hycom-api](https://github.com/Persian-Caesar/hycom-api)** | Clean wrapper & helpers for hycom.ir API | TypeScript | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/hycom-api?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/hycom-api?style=flat-square) | Aug 2025 |
-| 8 | **[chatbot](https://github.com/Persian-Caesar/chatbot)** | Persian-focused chatbot logic & integration package | TypeScript | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/chatbot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/chatbot?style=flat-square) | May 2025 |
+${repositorise}
 
 > Many more **private / customer projects** exist (25+), including premium ticket systems, music panels, funding rate arbitrage monitors, Telegram notifiers, file uploaders, MTA:SA status bots, and full-stack shops.
 
