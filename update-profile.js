@@ -94,7 +94,7 @@ async function generateMarkdownTable(repos, imagesPath) {
         const langBadges = repo.languages
             ? repo.languages.map(a => {
                 const language = encodeURIComponent(a);
-                return `![Used ${language}](${imagesPath}/${language.toLowerCase()}.svg)`
+                return `![Used ${language}](${imagesPath}/${language.toLowerCase().replaceAll(" ", "")}.svg)`
             }).join(" ")
             : "`none`";
 
