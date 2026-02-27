@@ -28,7 +28,7 @@ jobs:
          git config user.name "GitHub Actions"
          git config user.email "actions@github.com"
 
-         # Check if projects.json actually changed
+         # Check if profile/README.md actually changed
          if git diff --quiet profile/README.md; then
           echo "No changes detected. Skipping commit."
           exit 0
