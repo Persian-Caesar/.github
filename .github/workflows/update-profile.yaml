@@ -1,10 +1,14 @@
 name: Update Profile
 
 on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - '**'
+      
   schedule:
-    - cron: "30 8 * * *"
-  workflow_dispatch:
-
+    - cron: "30 20 * * *"
+    
 jobs:
   update-profile:
     runs-on: ubuntu-latest
